@@ -8,11 +8,11 @@ Flutter E-Commerce Application using Bloc ,Dio ,and Shared Preferences.
 
 Onboarding Screens With Skip Button. Login And Register Screens With Form Validation & Shared Preferences To Save User’s Token To See If He/She Logged Before So The App Navigates Directly To The Home Screen. Beautiful Home Screen With The Search Bar & Cart. The Bottom Navigation Bar Moves Fast Between Screens ,There is Screen For Products Details ,One For Favorites ,One For Categories & Finally, The Settings Screen So You Can Change Your Data ,Show Your Cart Or Sign Out.
 
-![mockup 1]()
+![mockup 1](https://github.com/ZEM-Kamel/Shopzilla/blob/main/mockup/mockup%201.png)
 
 Hello in Shopzilla 
 
-![mockup 2]()
+![mockup 2](https://github.com/ZEM-Kamel/Shopzilla/blob/main/mockup/mockup%202.png)
 
 
 This Project Is A Starting Point For a Flutter Application.
